@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Adaptive AI Learning Analytics Platform
 
-# Run and deploy your AI Studio app
+This project helps low cutoff students take assessments and get college recommendations with scholarship opportunities.
 
-This contains everything you need to run your app locally.
+## About the Project
+This system is designed for management to support students who have low cutoff marks. 
+Students can take assessments and based on their performance, they receive college and course recommendations. 
+The system also suggests scholarships and fee concessions.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1IS6FwS9dPuMSP10Kp4w4ru0KPG4HGxaD
+If students perform poorly, the platform recommends courses and modules to improve their skills.
 
-## Run Locally
+## Features
+- Assessment-based evaluation
+- College and course recommendation
+- Scholarship guidance
+- Skill improvement modules
+- Dashboard for analysis
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Technologies Used
+- HTML, CSS, JavaScript
+- Python / Java
+- SQL Database
